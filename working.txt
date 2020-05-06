@@ -1,0 +1,20 @@
+make user
+make group
+and user to group
+make reading
+add reading of the user in the group
+
+user - id, name, group_id, readings()
+group - id, users[], average of the day etc
+reading - id, author, date, value, group_id?
+
+
+read data from csv
+make dataframe
+
+if dont exist:
+create user from column,
+make group from column
+
+
+
