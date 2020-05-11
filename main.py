@@ -101,7 +101,7 @@ plt.plot(x_dates, y_bval, label='user B')
 
 plt.plot(x_dates, yav, label='averg')
 plt.style.use('seaborn-pastel')
-print(plt.style.available)
+# print(plt.style.available)
 plt.legend()
 
 plt.show()
